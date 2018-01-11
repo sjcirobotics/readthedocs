@@ -11,3 +11,4 @@ the game manual and more!
 
     code/index
     design/index
+    public-relations/index
