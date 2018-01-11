@@ -5,9 +5,6 @@ This is the documentation for the Alumiboti for the 2018 FIRST Robotics game, FI
 Here you will find design strategies, coding decisions, tips, tricks, convinent locations for
 the game manual and more!
 
-Contents
-========
-
 .. toctree::
     :maxdepth: 3
     :numbered:
