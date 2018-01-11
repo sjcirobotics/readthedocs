@@ -8,15 +8,10 @@ Welcome to Alumiboti's documentation!
 
 This is the documentation for FIRST Robotics team 5590, the Alumiboti!
 
+Below you will find documentation for each year's game, along with 
+guides that may not exactly follow a specific year.
+
 .. toctree::
    :caption: 2018 Power Up
 
    power-up-2018/index
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
