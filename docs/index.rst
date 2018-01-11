@@ -9,9 +9,9 @@ Welcome to Alumiboti's documentation!
 This is the documentation for FIRST Robotics team 5590, the Alumiboti!
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: 2018 Power Up
 
+   power-up-2018/index
 
 
 Indices and tables
