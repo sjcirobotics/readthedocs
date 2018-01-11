@@ -1,9 +1,9 @@
 Public Relations
 ****************
 
-This documentation covers the Public Relations aspect of the 2018 FIRST game, Power Up.
+This documentation covers the Public Relations aspect of the Alumiboti.
 The documentation will show the public outreach, sponsorship, and fundraising efforts
-of the team during the 2017-2018 school year. 
+of the team.
 
 Google Drive Folder
 -------------------

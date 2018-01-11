@@ -14,4 +14,5 @@ guides that may not exactly follow a specific year.
 .. toctree::
 
    power-up-2018/index
+   public-relations/index
    access-page
