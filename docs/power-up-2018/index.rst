@@ -7,7 +7,6 @@ the game manual and more!
 
 .. toctree::
     :maxdepth: 3
-    :numbered:
     :caption: Available Documentation
 
     code/index

@@ -12,6 +12,5 @@ Below you will find documentation for each year's game, along with
 guides that may not exactly follow a specific year.
 
 .. toctree::
-   :caption: 2018 Power Up
 
    power-up-2018/index
